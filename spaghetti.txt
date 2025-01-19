@@ -1,4 +1,4 @@
-300 grams
+350 grams
 Spaghetti
 300 grams
 Rundergehakt
@@ -28,3 +28,5 @@ add
 Peper en zout
 add 
 Olijfolie
+add
+Olives
